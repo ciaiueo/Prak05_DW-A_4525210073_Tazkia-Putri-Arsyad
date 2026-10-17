@@ -70,8 +70,6 @@ Folder `images` digunakan untuk menyimpan gambar yang dipakai pada website. Fold
 
 ![Screenshot website LUNÉA pada mobile](dokumentasi/mobile.jpeg)
 
-*Catatan: Simpan screenshot dengan nama file dan lokasi sesuai struktur folder di atas agar gambar tampil di README GitHub.*
-
 ## 8. Ringkasan Praktikum
 
 Pada praktikum ini, saya membuat website LUNÉA sebagai rancangan toko pakaian wanita menggunakan HTML5 dan CSS3. Website memiliki beberapa bagian, yaitu header, navigasi, hero section, kategori produk, daftar produk, informasi toko, dan footer. Saya menggunakan HTML untuk menyusun struktur halaman, sedangkan CSS digunakan untuk mengatur warna, ukuran teks, jarak, gambar, dan tata letak.
