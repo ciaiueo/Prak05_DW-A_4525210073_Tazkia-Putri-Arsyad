@@ -31,7 +31,7 @@ Website ini merupakan website statis untuk menampilkan informasi dan katalog pro
 ## 5. Struktur Folder
 
 ```text
-LUNEA-Online-Shop/
+Prak05/
 ├── index.html
 ├── css/
 │   └── style.css
